@@ -1,0 +1,7 @@
+pyspark==3.5.1
+venv-pack
+pyyaml
+pandas>=2.0
+pyarrow>=11.0
+ua-parser
+user-agents
